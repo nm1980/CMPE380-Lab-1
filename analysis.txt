@@ -1,0 +1,17 @@
+commit 1bdc29a612a3e37f119b959e2f045587ccaf0f5b
+Author: nm1980 <nm1980@rit.edu>
+Date:   Fri Aug 28 11:38:28 2026 -0400
+
+    added my major to the test file cool
+
+commit 0bddf1df2d981e802e5111b866b38b5a47db108d
+Author: nm1980 <nm1980@rit.edu>
+Date:   Fri Aug 28 11:37:09 2026 -0400
+
+    first add and commit for test.c
+
+commit 2052945ab0aa6e0c076031d79254b70ebe079184
+Author: nm1980 <nm1980@rit.edu>
+Date:   Fri Aug 28 10:56:01 2026 -0400
+
+    Created the test file using vi command and then added it to the git using the git commands given.

@@ -1,0 +1,7 @@
+total 1
+drwxr-xr-x 3 nm1980 domain users  0 Aug 28 10:53 .
+drwxr-xr-x 3 nm1980 domain users  0 Aug 28 10:51 ..
+-rw-r--r-- 1 nm1980 domain users 12 Aug 28 10:44 analysis.txt
+drwxr-xr-x 2 nm1980 domain users  0 Aug 28 10:49 exercise
+-rw-r--r-- 1 nm1980 domain users  0 Aug 28 10:53 input_file
+-rw-r--r-- 1 nm1980 domain users  0 Aug 28 10:53 myFile.txt

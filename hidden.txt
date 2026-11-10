@@ -1,0 +1,13 @@
+total 4
+drwx------ 3 nm1980 student        0 Aug 28 11:25 .
+drwxr-xr-x 5 root   root           0 Aug 28 11:25 ..
+-rw-r--r-- 1 nm1980 student       18 Apr 24 12:01 .bash_logout
+-rw-r--r-- 1 nm1980 student      141 Apr 24 12:01 .bash_profile
+-rw-r--r-- 1 nm1980 student      492 Apr 24 12:01 .bashrc
+drwxr-xr-x 3 nm1980 domain users   0 Aug 28 10:51 cmpe380
+-rw-r--r-- 1 nm1980 domain users  46 Aug 28 10:55 .gitconfig
+-rw-r--r-- 1 nm1980 domain users   0 Aug 28 11:26 hidden.txt
+-rw------- 1 nm1980 domain users   0 Aug 26 15:34 .history
+-rw------- 1 nm1980 domain users  20 Aug 28 11:16 .lesshst
+-rw----r-- 1 nm1980 domain users  12 Aug 28 10:00 scptest1.txt
+-rw------- 1 nm1980 domain users 118 Aug 28 09:52 .Xauthority
